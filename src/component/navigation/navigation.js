@@ -1,7 +1,15 @@
 import React, { Component } from 'react';
+import './navigation.css';
 
 class navigation extends Component {
-    render(){
-        return <h1></h1>;
+
+    render() {
+        return (
+            <div>
+                
+            </div>
+        );
     }
 }
+
+export default navigation;
