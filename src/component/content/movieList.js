@@ -96,16 +96,4 @@ class movieList extends Component {
     }
 }
 
-
-// class contentOverlay extends Component {
-//     render() {
-//         return (
-    // <h4 className='movie-title'>{title}</h4>
-    
-//             <div className='movie-rating'>{rating} / 10</div>
-//  <div className='movie-synopsis'>{overview}</div> }
-//         );
-//     }
-// }
-
 export default movieList;
